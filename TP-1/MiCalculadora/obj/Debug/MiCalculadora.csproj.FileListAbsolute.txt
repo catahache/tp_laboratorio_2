@@ -1,0 +1,13 @@
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\bin\Debug\Entidades.dll
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\bin\Debug\Entidades.pdb
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\utn\2021\prog_lab_II\tps\TP-1\MiCalculadora\obj\Debug\MiCalculadora.pdb

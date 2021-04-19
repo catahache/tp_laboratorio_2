@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\tps\TP-1\Entidades\bin\Debug\Entidades.dll
+D:\utn\2021\prog_lab_II\tps\TP-1\Entidades\bin\Debug\Entidades.pdb
+D:\utn\2021\prog_lab_II\tps\TP-1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\tps\TP-1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\tps\TP-1\Entidades\obj\Debug\Entidades.dll
+D:\utn\2021\prog_lab_II\tps\TP-1\Entidades\obj\Debug\Entidades.pdb
